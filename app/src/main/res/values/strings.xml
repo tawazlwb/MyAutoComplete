@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyAutoComplete</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="country">Enter your country here</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>America</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+</resources>
